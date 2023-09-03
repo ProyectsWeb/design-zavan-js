@@ -1,4 +1,4 @@
-/* .scroll_top_btn{
+ .scroll_top_btn{
     position: fixed;
     z-index: 999;       
     bottom: 10vh;       
@@ -12,6 +12,7 @@
     align-items: center; 
     justify-content: center;        
     transition: background-color 1s;
+    
     i{                        
       font-size: 3rem;                        
     }
@@ -37,4 +38,4 @@
  .hidden{
     visibility: hidden;
     opacity: 0;
-}  */
+}  

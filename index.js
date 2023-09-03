@@ -1,7 +1,8 @@
 import { Layout } from "./componentes/Layout.js"; 
 
 
-
+/* console.log(window.pageYOffset) */ 
+    
 console.log("SPA Desing Zavan");
 
 document.addEventListener('DOMContentLoaded', ()=>{    
